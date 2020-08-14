@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 /*
 
+daniel-angali
+
 Removes Duplicate Elements from Sorted Singly LinkedList (SSLL)
 Sample:
 
