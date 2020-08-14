@@ -3,8 +3,9 @@ package com.daniel;
 import java.util.Scanner;
 
 /*
- *  Removes Duplicate Elements from Sorted Singly LinkedList (SSLL)
- *  Sample:
+
+Removes Duplicate Elements from Sorted Singly LinkedList (SSLL)
+Sample:
 
 Enter no. of elements: 
 14
